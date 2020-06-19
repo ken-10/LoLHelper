@@ -7,7 +7,7 @@ Clone or download the repository
 4) Open the terminal in the IDE if it has one, if not go to your computer's terminal/cmd
 5) Go to the LoLHelper directory
 6) Type: **npm init**
-  -It will ask you a bunch of question, just hit enter for everything
+  - It will ask you a bunch of question, just hit enter for everything
 7) Then, type: **npm install discord.js**
 8) Go to https://discord.com/developers/applications
   - Click on New Application to create a new application
