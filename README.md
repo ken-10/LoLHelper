@@ -23,7 +23,7 @@ Clone or download the repository
 ## How to use
 Now that you've got the bot set up, you can use it on your server.
 The bot should be online.
-Currently the only commands are (as of June 18, 2020):
+Currently the only commands are (as of June 18, 2020. More features will be added):
 1) !ego 
   - this command gives an reaction
 2) !clear (a number you input)
