@@ -24,13 +24,13 @@ Clone or download the repository
 Now that you've got the bot set up, you can use it on your server.
 The bot should be online.
 Currently the only commands are (as of June 18, 2020):
-!ego 
+1) !ego 
   - this command gives an reaction
-!clear (a number you input)
+2) !clear (a number you input)
   - this command clears the amount of messages you want
-!joke
+3) !joke
   - this command tells you a random joke
-!allcaps (your message)
+4) !allcaps (your message)
   - turns you message into all caps
-!summoner (summoner name)
+5) !summoner (summoner name)
   - retrieves summoner name, level, and competitve ranks, along with wins, losses, and league points for each queue type
