@@ -1,10 +1,10 @@
 const Discord = require("discord.js");
 const axios = require("axios");
 const client = new Discord.Client();
-const token = "Paste your token here";
+const token = "PASTE YOUR TOKEN HERE";
 const prefix = '!';
 //API Key
-const APIkey = "?api_key=PASTE YOUR API KEY HERE";
+const APIkey = "?api_key=" + "PASTE YOUR API KEY HERE";
 
 client.on("ready", () => {
     console.log("I have awoken.");
