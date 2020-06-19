@@ -14,12 +14,13 @@ Clone or download the repository
   - Next, go to Bot and click on Add Bot
   - Copy your token and paste it into the token const in line 4
   - Watch this video to learn how to invite your bot to your discord server: https://youtu.be/xbEUioI1q-k?t=440 (made by It's Cam)
-9) Now that our bot is in our server, we just need our API key from Riot
+9) Type: npm i axios (to install axios for getting APIs)
+10) Now that our bot is in our server, we just need our API key from Riot
   - Go to: https://developer.riotgames.com/
   - Sign in, or sign up if you do not have an account
   - You will be redirected to your dashboard and you will be given the option to copy your key
   - Copy the api key and paste it into the API_Key const in line 7
-10) Type: node . OR node index.js to run the bot
+11) Type: node . OR node index.js to run the bot
 ## How to use
 Now that you've got the bot set up, you can use it on your server.
 The bot should be online.
