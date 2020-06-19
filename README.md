@@ -21,6 +21,7 @@ Clone or download the repository
   - You will be redirected to your dashboard and you will be given the option to copy your key
   - Copy the api key and paste it into the API_Key const in line 7
 11) Type: **node .** OR **node index.js** to run the bot
+  - The bot has successfully started if it prints "I have awoken" in the terminal
 ## How to use
 Now that you've got the bot set up, you can use it on your server.
 The bot should be online.
