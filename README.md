@@ -1,6 +1,6 @@
 # LoLHelper
 ## Set up
-Clone or download the repository
+**Clone or download the repository first!**
 1) Download and install [node js](https://nodejs.org/en/download/) in your computer if you haven't already
 2) Go into your terminal and go into the LoLHelper directory/folder
 3) Open the directory/folder in your preferred IDE (I use Visual Studio Code)
